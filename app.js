@@ -26,4 +26,3 @@ app.get('/dashboard',(req,res)=>{
     })
 });
 app.listen(3000,()=>console.log('server is running in https://localhost:3000'));
-
